@@ -44,7 +44,7 @@ An advanced, bilingual (English/Arabic) clustering analysis tool built with Stre
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/clustering-viz.git
+git clone https://github.com/sh3woy1/clustering-viz.git
 cd clustering-viz
 ```
 
